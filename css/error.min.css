@@ -1,0 +1,47 @@
+@CHARSET "ISO-8859-1";
+/*diseño de la pagina de error */
+ 
+ body {
+	text-align : left;
+ }
+ #head {
+ 	 color : blanchedalmond;
+ }
+ h1 {
+ 	 font-size : 53px;
+ }
+ h2 {
+	 font-size : 19px;
+ }
+ #conteiner {
+ 	color : white;
+	font-family: 'Lato', sans-serif;
+  	font-size: 17px;
+ }
+ p.text-center{
+ 	color : red;
+ }
+address {
+	text-align : center;
+	font-size: large;
+	
+}
+#video {
+	position : absolute;
+	bottom : 0px;
+	right : 0px;
+	min-width : 120%;
+	min-weight : 120%;
+	width : auto;
+	height : auto;
+	z-index : -1000;
+	overflow : hidden;
+	
+}
+#pie {
+	color : white;
+}
+.row {
+	margin-right : 0px;
+	margin-left : 0px;
+}
